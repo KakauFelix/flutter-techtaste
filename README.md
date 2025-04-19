@@ -1,16 +1,8 @@
-# myapp
+# flutter-techtaste
 
-A new Flutter project.
+Este aplicativo foi criado durante o evento Imersão Mobile da Alura. Ele demonstra os fundamentos do desenvolvimento de aplicativos Flutter, com foco na criação de UI e gerenciamento de estado. O aplicativo apresenta uma tela de splash, uma tela inicial com uma lista de restaurantes, exibição dinâmica de dados de restaurantes a partir de um arquivo JSON, navegação entre telas e uma implementação de sacola de compras.
 
-## Getting Started
+</br>
+Breve Demonstração do app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Demonstração do app](./vídeo_app_flutter_techtaste.gif)
